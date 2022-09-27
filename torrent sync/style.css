@@ -1,0 +1,47 @@
+.header
+{
+height: 35%;
+width: 100%;
+background-color: #FC28FB;
+margin: 0px;
+};
+
+body{
+    margin: 0px;
+}
+.box1
+{
+ height: 0%;
+};
+
+.foot
+{
+    
+    position: bottom;
+    bottom: 0;
+    left: 0;
+    background-color: #FC28FB;
+    height: 200px;
+    width: 100%;
+    color: black;
+    text-align: center;
+    
+}
+
+.bar
+{
+    border: #FC28FB solid 10px;
+    border-radius: 100px;
+    height: 80px;
+    width: 1000px;
+    align-self: center;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'francois_oneregular';
+    src: url('francoisone-regular-webfont.woff2') format('woff2'),
+         url('francoisone-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
